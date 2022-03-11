@@ -1,6 +1,6 @@
 /* Ex9c: Golden Bars problem
 *==================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program is trying to split 5 inputed weights between two jewlers.
 * Program will try to distribute the weight recursively with backtracking.
