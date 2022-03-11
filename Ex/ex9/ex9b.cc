@@ -1,6 +1,6 @@
 /* Ex9b: Pattern Matching
 *==================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program is finding a match for a pattern recursively.
 * User inputs a string of characters and then a pattern to try and match.
