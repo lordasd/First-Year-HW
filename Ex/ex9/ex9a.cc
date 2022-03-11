@@ -1,6 +1,6 @@
 /* Ex9a: Max 9 digit divide by 11
 *==================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program is searching for the highest 9 different digits number
 * that can be divided by 11. We start with an array with 9 values
