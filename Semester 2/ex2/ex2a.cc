@@ -1,6 +1,6 @@
-/* Ex1a: Bigger and smaller
+/* Ex2a: Bigger and smaller
 *==================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program is taking input(until eof - for windows = ctrl+z.
 * for linux = ctrl+d) for a linked list and
