@@ -1,6 +1,6 @@
-/* Ex2a: Jumps in a circle
+/* Ex2b: Jumps in a circle
 *==================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program is taking input and creates a circled list which connects
 * the last and the first nodes with next and prev pointers.
