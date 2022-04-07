@@ -1,6 +1,6 @@
 /* Ex2c: List of lists
 *==================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program builds a data structure made in rows.
 * prints the structure and connects all wanted nodes
