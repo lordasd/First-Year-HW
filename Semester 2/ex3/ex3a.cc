@@ -1,6 +1,6 @@
 /* Ex3a: Intersection and son identicality 
 *==================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program is taking input of data(whole possitive numbers) until eof(alt+z/d)
 * and builds a binary tree.
