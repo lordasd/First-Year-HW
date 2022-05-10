@@ -1,6 +1,6 @@
 /* Ex3b: Quarter sub_tree
 *==================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program takes input of Id, x, y and builds a node of of these parameters 
 * and create a binary search tree.
