@@ -1,6 +1,6 @@
 /* Ex3c: Biggest subtree with even > odd numbers
 *===============================================
-* Written by David Zaydenberg, ID: 319323721, Login: davidzay
+* Written by David Zaydenberg
 *
 * Program is taking data input until eof(alt+z/d) and creates a bst.
 * Searches for the subtree that has even > odd numbers and prints it.
