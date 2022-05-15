@@ -1,5 +1,4 @@
 ;Name: David Zaydenberg
-;ID: 319323721
 %include "io.inc"
 
 section .data
@@ -15,7 +14,6 @@ upper resd 1
 section .text
 global CMAIN
 CMAIN:
-    mov ebp, esp; for correct debugging
     xor ecx,ecx
 input:
     PRINT_STRING msg1
