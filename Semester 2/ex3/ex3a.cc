@@ -1,4 +1,4 @@
-/* Ex3a: Intersection and son identicality 
+/* Ex3a: Intersection and child identicality 
 *==================================
 * Written by David Zaydenberg
 *
