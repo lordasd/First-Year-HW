@@ -1,5 +1,8 @@
-;Name: David Zaydenberg
-;ID: 319323721
+Program takes input of a numbers(until 0) and
+calculates the amount of turned of bits(1) it has
+and saves the number with the most bits turned on(1)
+and prints the number, amount of turned on bits(1) and the index.
+Porgram also prints how many even and negative number there are.
 %include "io.inc"
 
 section .data
