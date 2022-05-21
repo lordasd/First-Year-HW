@@ -1,5 +1,5 @@
-;Name: David Zaydenberg
-;ID: 319323721
+;Program takes input of a number(only 0,1 digits) and
+;"converts" it to a decimal number.
 %include "io.inc"
 
 section .data
