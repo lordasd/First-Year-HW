@@ -1,5 +1,4 @@
 ;Name: David Zaydenberg
-;ID: 319323721
 %include "io.inc"
 
 section .data
