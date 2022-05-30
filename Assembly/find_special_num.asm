@@ -1,5 +1,4 @@
 ;Name: David Zaydenberg
-;ID: 319323721
 ;There is not possible way to have more than one number like this
 %include "io.inc"
 
